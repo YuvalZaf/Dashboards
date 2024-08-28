@@ -1,0 +1,1 @@
+to use the drill through, use the countries bar chart, right click on specific country.
